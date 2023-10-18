@@ -1,0 +1,6 @@
+framework module Pods_Validation_New {
+  umbrella header "Pods-Validation_New-umbrella.h"
+
+  export *
+  module * { export * }
+}
